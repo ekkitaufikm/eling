@@ -1,0 +1,15 @@
+[03-May-2020 08:39:37 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/elingsemarangkot/public_html/code/vendor/laravel/framework/src/Illuminate/Database/Grammar.php on line 99
+[12-May-2020 23:09:02 UTC] PHP Fatal error:  Class 'App\Lampiran' not found in /home/elingsemarangkot/public_html/code/app/Http/Controllers/UsulanController.php on line 237
+[14-May-2020 06:30:52 UTC] PHP Parse error:  syntax error, unexpected 'functio' (T_STRING), expecting variable (T_VARIABLE) in /home/elingsemarangkot/public_html/code/app/Http/Controllers/DashboardController.php on line 19
+[19-May-2020 07:32:45 UTC] PHP Fatal error:  Class 'App\Providers\Carbon' not found in /home/elingsemarangkot/public_html/code/app/Providers/AppServiceProvider.php on line 17
+[19-May-2020 07:33:09 UTC] PHP Fatal error:  Class 'App\Providers\Carbon' not found in /home/elingsemarangkot/public_html/code/app/Providers/AppServiceProvider.php on line 18
+[30-Jun-2020 00:32:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/elingsemarangkot/public_html/code/storage/framework/views/b11ad8255db2ba820ba78240713870dea1746a2f.php on line 165
+[30-Jun-2020 00:44:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/elingsemarangkot/public_html/code/storage/framework/views/b11ad8255db2ba820ba78240713870dea1746a2f.php on line 166
+[30-Jun-2020 01:03:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/elingsemarangkot/public_html/code/storage/framework/views/b11ad8255db2ba820ba78240713870dea1746a2f.php on line 174
+[30-Jun-2020 01:29:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/elingsemarangkot/public_html/code/storage/framework/views/b11ad8255db2ba820ba78240713870dea1746a2f.php on line 183
+[30-Jun-2020 01:46:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=' in /home/elingsemarangkot/public_html/code/storage/framework/views/b11ad8255db2ba820ba78240713870dea1746a2f.php on line 160
+[30-Jun-2020 02:41:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/elingsemarangkot/public_html/code/storage/framework/views/b11ad8255db2ba820ba78240713870dea1746a2f.php on line 203
+[09-Jul-2020 18:14:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/elingsemarangkot/public_html/code/storage/framework/views/a7aadef46a1b524db842313f04339496361199f9.php on line 60
+[15-Jul-2020 09:52:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'kendali' (T_STRING), expecting ']' in /home/elingsemarangkot/public_html/code/storage/framework/views/7d71d2a7bf2b7124608f3b1503e3091c0331e3ce.php on line 90
+[15-Jul-2020 10:18:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/elingsemarangkot/public_html/code/storage/framework/views/b11ad8255db2ba820ba78240713870dea1746a2f.php on line 101
+[15-Jul-2020 10:20:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/elingsemarangkot/public_html/code/storage/framework/views/b11ad8255db2ba820ba78240713870dea1746a2f.php on line 101

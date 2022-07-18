@@ -1,0 +1,125 @@
+
+/*
+    Created on : Oct 31, 2014, 12:30:45 PM
+    Author     : ShintaRE
+*/
+/*@import 'font.css';*/
+@media print {
+    .fit-toPage{
+        width: 100%;
+        height: auto;
+    }
+}
+
+.text-strip{
+    text-decoration: line-through !important;
+}
+.buttonsearch{
+    margin:-6px;
+}
+.inputsearch{
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 20px !important;
+}
+
+.icon-click:active{
+    padding-left: 2px;
+}
+
+.tabel-inner{
+    font-family: 'Open Sans';
+    font-size: 15px;
+    margin-bottom:20px;
+}
+.tabel-inner thead th, .tabel-inner tbody td{
+    font-family: 'Open Sans';
+    line-height: 15px;
+    padding: 5px;
+    text-align: left;
+    vertical-align: middle;
+    border-radius: 0 0 0 0 !important;
+}
+
+.tabel-inner tbody td {
+    vertical-align: top !important;
+}
+.tabel{
+    font-family: 'Open Sans';
+    font-size: 16px;
+    margin-bottom:20px;
+}
+.tabel th, .tabel td {
+    font-family: 'Open Sans';
+    line-height: 15px;
+    padding: 5px;
+    text-align: left;
+    vertical-align: middle;
+}
+th, td, .tabel-bordered {
+    border-radius: 0 0 0 0 !important;
+}
+.tabl{
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    font-size: 12px;
+    /*border:1px solid #000;*/
+    margin-bottom:20px;
+
+    border-collapse: collapse;
+}
+.tabl th, .tabl td {
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    line-height: 15px;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+            border: 1px solid #000;
+
+}
+th, td, .tabl-bordered {
+    border-radius: 0 0 0 0 !important;
+}
+.tabl-bord{
+/*    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;*/
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #ddd;
+}
+/*.tabl-bo{
+    border-bottom: 1px solid #000;
+    border: 1px solid #000;
+    border-collapse: collapse
+
+}*/
+
+.table-noBorder{
+    border: 0;
+    padding: 0 0;
+}
+
+.table-noBorder tbody tr th,.table-noBorder tbody tr, .table-noBorder tbody tr:nth-child(2n+1) td, .table-noBorder tbody tr:nth-child(2n+1) th {
+    background-color: transparent;
+    border:none;
+}
+
+.scrollToTop{
+    text-align:center;
+    font-weight: bold;
+    text-decoration: none;
+    position:fixed;
+    top:85%;
+    right:1%;
+}
+
+.scrollToTop:hover{
+    text-decoration: none;
+}
+
+.headerLampiran{
+    width: 438px;display: inline-block;text-align: left;
+}
+
+.tbl-ttd{
+    font-weight: bolder !important;
+}
